@@ -8,23 +8,23 @@ There are several scripts that commonly appear in Islamicate manuscripts, but th
 ### [Naskh](http://openn.library.upenn.edu/Data/0032/ms_or_178/data/web/6929_0010_web.jpg)
 Naskh is the most basic book hand. It is clear, readable and is not specific to any region, though it does tend to be used more heavily in the central region. It is also sometimes used when copying books in Arabic in areas where Arabic is not the spoken language.
 
-![Diagram of naskh script](/islamicmss/assets/naskh.jpg)(Script diagram image from: Maryam Ekhtiar (2018) *How to Read Islamic Calligraphy*. New York.)
+![Example of naskh script](/islamicmss/assets/naskh.jpg)(Image: detail from Bryn Mawr College Libraries [BV53](http://openn.library.upenn.edu/Data/0003/html/bv_053.html) on OPenn)
 
 ### [Nastaʻliq](http://openn.library.upenn.edu/Data/0001/ljs43/data/web/0116_0026_web.jpg)
 Nastaʻliq is the book hand of the Indo-Persian region. It is used for the vast majority of Persian language manuscripts. In comparison to naskh, nastaʻliq is more angular, slants more to the right and has more ligatures.
 
-![Diagram of nastaliq script](/islamicmss/assets/nastaliq.jpg)(Script diagram image from: Maryam Ekhtiar (2018) *How to Read Islamic Calligraphy*. New York.)
+![Example of nastaliq script](/islamicmss/assets/nastaliq.jpg)(Image: detail from Columbia University RBML [MS Or 25](http://openn.library.upenn.edu/Data/0032/html/ms_or_025.html) on OPenn)
 
 ### [Maghribi](http://openn.library.upenn.edu/Data/0002/misc_mss_box24_fldr3/data/web/7098_0000_web.jpg)
 Maghribi is the book hand of North Africa (excluding Egypt) and southern Spain. Scripts used in manuscripts produced in West Africa also have more similarities with maghribi than they do with scripts produced elsewhere. Maghribi script has a few particular letter shapes and is generally more curvilinear (or boxy to some people's eyes) than naskh. The strokes in maghribi also tend to be of a more uniform thickness than in other scripts because of the way the reed pen is cut.
 
-![Diagram of maghribi script](/islamicmss/assets/maghribi.jpg)(Script diagram image from: Maryam Ekhtiar (2018) *How to Read Islamic Calligraphy*. New York.)
+![Example of maghribi script](/islamicmss/assets/maghribi.jpg)(Image: detail from Columbia University RBML [MS Or 238](http://openn.library.upenn.edu/Data/0032/html/ms_or_238.html) on OPenn)
 
 ### Six Pens
 
-There are six scripts which are known as the 'Six Pens'. They are what is known as **proportional** script because the letter sizes are in proportion one to another. The scripts can be scaled up and down easily and are quite readable. The six below can be broken up into three sets of two. The top and second pair are basically each a small and large version of the same script: *naskh* (small) and [**thuluth**](http://openn.library.upenn.edu/Data/0023/lewis_o_042/data/web/9215_0010_web.jpg) (large), *rayhan* (small) and [**muhaqqaq**](http://openn.library.upenn.edu/Data/0032/ms_or_402/data/web/9775_0000_web.jpg) (large). The bottom pair (*riqaʻ* and *tawqiʻ*) are mostly chancery scripts used for correspondence and not for book copying. For the most part, you will not see them in codices, though you will see them in calligraphy samples. A table of the six pens is below.
+There are six scripts which are known as the 'Six Pens'. They are what is known as **proportional** script because the letter sizes are in proportion one to another. The scripts can be scaled up and down easily and are quite readable. The six below can be broken up into three sets of two. The top pair and second pair are basically each a small and large version of the same script: *naskh* (small) and [**thuluth**](http://openn.library.upenn.edu/Data/0023/lewis_o_042/data/web/9215_0010_web.jpg) (large), *rayhan* (small) and [**muhaqqaq**](http://openn.library.upenn.edu/Data/0032/ms_or_402/data/web/9775_0000_web.jpg) (large). The bottom pair (*riqaʻ* [small] and *tawqiʻ* [large]) are mostly chancery scripts used for correspondence and not for book copying. For the most part, you will not see them in codices, though you will see them in calligraphy samples. A diagram of the six pens is below. From the top, they are: *naskh*, *thuluth*, *muhaqqaq*, *rayhan*, *tawqiʻ*, *riqaʻ*.
 
-![Diagram of the Six Pens](/islamicmss/assets/six-pens.jpg)(Script diagram images from: Maryam Ekhtiar (2018) *How to Read Islamic Calligraphy*. New York.)
+![Diagram of the Six Pens](https://upload.wikimedia.org/wikipedia/commons/3/32/Six_arabic_scripts.png)(Image: Esetok / CC0)
 
 ### Combining scripts
 

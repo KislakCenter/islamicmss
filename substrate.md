@@ -18,10 +18,10 @@ In the Islamicate world, paper basically comes in three general types:
 - visible chain lines only and
 - visible laid and chain lines.
 
-This refers to what you see when you hold a leaf up to light. Handmade papers generally have some sort of pattern you can see, the exception is wove paper which has no pattern. Other papers generally have **chain lines** (wider spaced lines) and **laid lines**, also called water lines (narrowly spaced lines). These lines are a result of the mold on which the paper is made. This drawing shows a detail of laid and chain lines and a watermark.
+This refers to what you see when you hold a leaf up to light. Handmade papers generally have some sort of pattern you can see, the exception is wove paper which has no pattern. Other papers generally have **chain lines** (wider spaced lines) and **laid lines**, also called water lines (narrowly spaced lines). These lines are a result of the mold on which the paper is made. This photo with labels shows a detail of laid and chain lines and a watermark.
 
-![Drawing illustrating Laid and chain lines](/islamicmss/assets/laid-and-chain-lines.png)
-(Image from: Adam Gacek (2009) *Arabic Manuscripts*, p. 105)
+![Picture of paper with laid and chain lines labeled](/islamicmss/assets/laid-and-chain-lines.jpg)
+(Image: Kelly Tuttle)
 
 **Indo-Persian handmade paper** generally has laid lines only, so only the closely-spaced lines. This type of paper was made on a reed or grass mold and was used all over the Eastern portion of the Islamicate world even up to the 20th century. For a manuscript showing the process of papermaking in the Indo-Persian world and a description with modern pictures of how it is done, see the British Library's [post about a papermaking workshop they held](https://britishlibrary.typepad.co.uk/collectioncare/2015/04/making-islamic-style-paper.html).
 
@@ -40,7 +40,7 @@ Watermarks on made-for-export European paper often involved crescent moons of so
 Codices are made up of stacks of folded leaves. A leaf folded in half is called a **bifolium**, when put into a stack and then folded, you get a **quire or gathering**. Those quires are stacked one atop the other and sewn in two or four **stations**. It is common to find quires of 5 bifolia which means 10 leaves and 20 pages. This illustration from Adam Gacek's *Arabic Manuscripts* may help you visualize it. The illustration also shows how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the illustration, "f." stands for folio, meaning leaf, and "p." stands for page, meaning one side of a leaf.
 
 ![Collation](/islamicmss/assets/codices.jpg)
-(Image from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
+(Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
 
 Here's a side view of a stack of quires. As you can see, there are two sewing stations, but both stations have had their sewing broken meaning that these quires slip around when the book is opened.
 

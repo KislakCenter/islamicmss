@@ -6,7 +6,7 @@ layout: home
 ---
 ![Title with decoration](/islamicmss/assets/basics.jpg)
 
-This site holds **basic** information and resources relating to  the study of Islamic manuscripts. If you have worked with Islamic manuscripts before, then this site will be too simplistic for you. If you are simply curious, or have no background in Islamic manuscripts, then this site is for you!
+This site holds **basic** information and resources relating to  the study of Islamic manuscripts. If you are new to thinking about the material aspects of Islamic manuscripts or are simply curious and want to know more, then this site is for you!
 
 ### **Organization**
 
@@ -20,7 +20,7 @@ This site holds **basic** information and resources relating to  the study of Is
 
 As you work through these pages, keep in mind that manuscript making was a team effort and included papermakers, scribes,  and binders at the very least. Fancy, or deluxe, manuscript production would also include (teams of) illustrators and illuminators.
 
-You can find digital collections of Islamic manuscripts used on this website in [**OPenn**](http://openn.library.upenn.edu/html/muslimworld_contents.html), which hosts over 500 open-access, high-resolution digitized Islamic manuscripts from Philadelphia area collections and Columbia University. All images on this site are released under Creative Commons licenses and have been taken from OPenn, unless otherwise stated.
+You can find digital collections of Islamic manuscripts used on this website in [**OPenn**](http://openn.library.upenn.edu/html/muslimworld_contents.html), which hosts over 500 open-access, high-resolution digitized Islamic manuscripts from Philadelphia area collections and Columbia University. All images on this site are open access under Creative Commons licenses and have been taken from OPenn, unless otherwise stated.
 
 ### **Where to Start**
 
