@@ -13,7 +13,7 @@ Below is an example of a fairly standard **prose** layout with wide margins all 
 
 From the same manuscript, here's a photo of rules in blind. These were made using a frame rule (mistarah), or ruling board which is a piece of card with threads sewn onto it that mark the lines. It is then put under a page and rubbed over with a smoothing device to create indentations in the page. Those indentations are the line rules.
 
-![illustration of frame-ruled lines at angles in margin](/islamicmss/assets/framerule.jpg)(Image: Kelly Tuttle)
+![illustration of frame-ruled lines at angles in margin](/islamicmss/assets/framerule.JPG)(Image: Kelly Tuttle)
 
 ### Poetry
 
