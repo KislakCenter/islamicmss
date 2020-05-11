@@ -19,6 +19,6 @@ And here is a cumulative exercise, for when you have read through everything. It
 
 - [**Cumulative exercise**](https://forms.gle/r14oKspKtkJKzWUc9)
 
-Now that you are done with everything, go back to the [Manusripts of the Muslim World project on OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html) and look at the manuscripts. See what aspects of them you can now recognize.
+Now that you are done with everything, go back to the [Manuscripts of the Muslim World project on OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html) and look at the manuscripts. See what aspects of them you can now recognize.
 
 Thanks for reading.
