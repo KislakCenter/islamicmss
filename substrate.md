@@ -15,7 +15,7 @@ Parchment is expensive. Since it is animal skin treated (often with lime) and sc
 ### Paper
 In the Islamicate world, paper basically comes in three general types:
 - wove,
-- visible chain lines only and
+- visible laid lines only and
 - visible laid and chain lines.
 
 This refers to what you see when you hold a leaf up to light. Handmade papers generally have some sort of pattern you can see, the exception is wove paper which has no pattern. Other papers generally have **chain lines** (wider spaced lines) and **laid lines**, also called water lines (narrowly spaced lines). These lines are a result of the mold on which the paper is made. This photo with labels shows a detail of laid and chain lines and a watermark.
