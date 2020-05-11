@@ -40,4 +40,4 @@ Stamps, or seals, are ink or embossed stamps of an owner, library, or reader tha
 
 Manuscript notes can tell us much about where a manuscript has traveled, how it was used, for how long it was used, in whose libraries it resided, whether it differs from other copies a reader has seen. Unfortunately, since manuscript notes were often written for the then-owner of the manuscript, they are in informal script. As such, they are often very difficult to read.
 
-That concludes the Notes section. There is no activity to go with this section, so please continue to any other page now. Or, if you are finished, go to the [Xercises](/islamicmss/exercises/) page and do the cumulative exercise.
+That concludes the Notes section. There is no activity to go with this section, so please continue to any other page now. Or, if you are finished, go to the [Try This](/islamicmss/exercises/) page and do the cumulative exercise.
