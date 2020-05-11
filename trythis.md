@@ -6,7 +6,7 @@ permalink: /exercises/
 
 ![Diagram](/islamicmss/assets/diagram.jpg)
 
-These are short exercises that you can do when you finish reading a page. Or, if you have finished looking at everything, you can do the cumulative exercise, linked below. Any of these exercises will take you to a Google form that you can fill out. When you submit it, you can see your answers and the correct answers (in gray) for all of the questions. You can take them as many times as you like. The page exercises are each 4 questions.
+These are short exercises that you can do when you finish reading a page (it is a good idea to open them in a new tab). Or, if you have finished looking at everything, you can do the cumulative exercise, linked below. Any of these exercises will take you to a Google form that you can fill out. When you submit it, you can see your answers and the correct answers (in gray) for all of the questions. You can take them as many times as you like. The page exercises are each 4 questions.
 
 - [**Basics exercise**](https://forms.gle/M66q8gTwXBcuRMtS9)
 - [**Bindings exercise**](https://forms.gle/8XTHLcYocPG7yhN17)
