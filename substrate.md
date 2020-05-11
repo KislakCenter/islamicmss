@@ -33,7 +33,7 @@ This refers to what you see when you hold a leaf up to light. Handmade papers ge
 
 Watermarks on made-for-export European paper often involved crescent moons of some kind. A popular type of paper, 17th century and after, was known as a trelune for the three crescent moon watermark.
 
-![Trelune paper](/islamicmss/assets/trelune.jpg)(Image: Kelly Tuttle)
+![Trelune paper](/islamicmss/assets/trelune.JPG)(Image: Kelly Tuttle)
 
 ### Collation
 
