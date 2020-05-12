@@ -3,7 +3,7 @@ layout: page
 title: Layout
 permalink: /layout/
 ---
-Islamicate manuscripts are generally laid out in one column with fairly wide margins on the three outer sides for marginal commentary and notes. The exception to this rule is poetry, which is generally written in two or more columns. Lines and columns are generally ruled in blind (without ink) so that when the scribe copies the text, the lines come out straight.
+Islamicate manuscripts are generally laid out in one column with fairly wide margins on the three outer sides for marginal commentary and notes. The exception to this rule is poetry, which is generally written in two or more columns. 
 
 ### Prose
 
@@ -11,7 +11,7 @@ Below is an example of a fairly standard **prose** layout with wide margins all 
 
 ![illustration of a prose layout](/islamicmss/assets/prose-layout.png)(Image: UPenn Libraries[Ms. Codex 1896](http://openn.library.upenn.edu/Data/0002/html/mscodex1896.html) from OPenn)
 
-From the same manuscript, here's a photo of rules in blind. These were made using a frame rule (mistarah), or ruling board which is a piece of card with threads sewn onto it that mark the lines. It is then put under a page and rubbed over with a smoothing device to create indentations in the page. Those indentations are the line rules.
+From the same manuscript, here's a photo of rules. Lines and columns are ruled, so that when the scribe copies the text, the lines come out straight; this was generally done in blind (without ink), as you see in the photo below. These rulings were made using a frame rule (mistarah), or ruling board which is a piece of card with threads sewn onto it that mark the lines. It is then put under a page and rubbed over with a smoothing device to create indentations in the page. Those indentations are the line rules.
 
 ![illustration of frame-ruled lines at angles in margin](/islamicmss/assets/framerule.JPG)(Image: Kelly Tuttle)
 
