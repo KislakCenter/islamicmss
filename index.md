@@ -14,7 +14,7 @@ This site holds **basic** information and resources relating to  the study of Is
 
  At the bottom of each page (except Notes) is a link to a short exercise that will let you test your knowledge. You can also access any of the exercises from the [**Exercises**](/islamicmss/exercises) page.
 
- Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of particular aspects of manuscripts that may be of use to you and the [**References**](/islamicmss/references/) page has links and resources for further research.
+ Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of additional aspects of manuscripts that may be of use to you and the [**References**](/islamicmss/references/) page has links and resources for further research.
 
 ### **Things to Know**
 
