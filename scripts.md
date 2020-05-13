@@ -2,7 +2,9 @@
 layout: page
 title: Scripts
 permalink: /scripts/
+order: 5
 ---
+{% include back-to-top.html %}
 There are several scripts that commonly appear in Islamicate manuscripts, but the following three are the main book hands that you will probably run across when looking at manuscripts. When a script name is linked, click on the name to see an example page of the script from OPenn's collection.
 
 ### [Naskh](http://openn.library.upenn.edu/Data/0032/ms_or_178/data/web/6929_0010_web.jpg)

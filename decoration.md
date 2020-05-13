@@ -2,7 +2,9 @@
 layout: page
 title: Decoration
 permalink: /decoration/
+order: 6
 ---
+{% include back-to-top.html %}
 Decoration includes illumination, illustration, diagram and anything else that is not text or notes. We can think of **illumination** as functional beautifiers that we find in manuscripts. **Illustration**, on the other hand, is paintings showing a scene from a tale that is in the book or that reflects something about the production of it. **Diagrams** are one category of illustration and are mostly found in scientific texts.
 
 ### Illumination

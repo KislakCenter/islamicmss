@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Try This
+title: Exercises
 permalink: /exercises/
+order: 10
 ---
-
+{% include back-to-top.html %}
 ![Diagram](/islamicmss/assets/diagram.jpg)
 
 These are short exercises that you can do when you finish reading a page. Or, if you have finished looking at everything, you can do the cumulative exercise, linked below. Any of these exercises will take you to a Google form that you can fill out. When you submit it, you can see your answers and the correct answers (in gray) for all of the questions. You can take them as many times as you like. The page exercises are each 4 questions.

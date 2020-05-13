@@ -10,11 +10,11 @@ This site holds **basic** information and resources relating to  the study of Is
 
 ### **Organization**
 
- There are 7 content pages: [**Basics**](/islamicmss/basics/), [**Binding**](/islamicmss/binding/), [**Decoration**](/islamicmss/decoration/), [**Layout**](/islamicmss/layout/), [**Notes**](/islamicmss/notes/), [**Scripts**](/islamicmss/scripts/), and [**Substrate and Collation**](/islamicmss/substrate/).
+ There are 7 content pages: [**Basics**](/islamicmss/basics/), [**Binding**](/islamicmss/binding/), [**Substrate**](/islamicmss/substrate/), [**Layout**](/islamicmss/layout/), [**Scripts**](/islamicmss/scripts/), [**Decoration**](/islamicmss/decoration/), [**Notes**](/islamicmss/notes/).
 
- At the bottom of each page (except Notes) is a link to a short exercise that will let you test your knowledge. You can also access any of the exercises from the [**Try This**](/islamicmss/exercises) page.
+ At the bottom of each page (except Notes) is a link to a short exercise that will let you test your knowledge. You can also access any of the exercises from the [**Exercises**](/islamicmss/exercises) page.
 
- Finally, the [**Photo Guides**](/islamicmss/photos/) page has photos of particular aspects of manuscripts that may be of use to you and the [**References**](/islamicmss/references/) page has links and resources for further research.
+ Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of particular aspects of manuscripts that may be of use to you and the [**References**](/islamicmss/references/) page has links and resources for further research.
 
 ### **Things to Know**
 

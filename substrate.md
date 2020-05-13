@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Substrate and Collation
+title: Substrate
 permalink: /substrate/
+order: 3
 ---
+{% include back-to-top.html %}
 The **substrate** refers to the material on which the manuscript is written. One of the three p's generally makes up the substrate in the Islamicate world: **Papyrus**, **Parchment**, **Paper**. Among those, paper is far and away the most common substrate, though parchment also shows up.
 
 ### Parchment

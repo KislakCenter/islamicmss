@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Photo Guides
-permalink: /photos/
+title: Glossary
+permalink: /glossary/
+order: 8
 ---
+{% include back-to-top.html %}
 On this page are photos of specific things that may be of use to orient you as you begin to work with Islamic manuscripts. This list is alphabetically arranged. Think of it as a picture glossary. When a word is linked, the link leads to the [Language of Bindings Thesaurus](https://www.ligatus.org.uk/lob/) definition of that concept. All images from [OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html)
 
 [**Block-stamped**](https://www.ligatus.org.uk/lob/concept/3586): A way of decorating the inside cover, usually the doublure, using an engraved block which makes the stamped leather darker and the remaining unstamped leather lighter. This image is from the inside cover of Penn Museum [NEP80](http://openn.library.upenn.edu/Data/0016/html/NEP80.html) The block-stamped portion is in the middle of the image.
