@@ -42,6 +42,7 @@ header_pages:
   - notes.md
   - glossary.md
   - references.md
+  - resources.md
   - exercises.md
   - about.md
 # Exclude from processing.

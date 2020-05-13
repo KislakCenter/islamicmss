@@ -2,7 +2,7 @@
 layout: page
 title: Exercises
 permalink: /exercises/
-order: 10
+order: 11
 ---
 {% include back-to-top.html %}
 ![Diagram](/islamicmss/assets/diagram.jpg)
