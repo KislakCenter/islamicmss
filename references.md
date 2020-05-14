@@ -26,7 +26,7 @@ Gacek, Adam (2001) *The Arabic Manuscript Tradition: A Glossary of Technical Ter
 
 ---. (2009) *Arabic Manuscripts: A Vademecum for Readers*. Leiden.
 
-Lit, L.W.C. van. (2020) *Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World*. Leiden. Free to download!
+Lit, L.W.C. van. (2020) *Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World*. Leiden. [Free to download!](https://brill.com/view/title/56196)
 
 ### Journals
 - *Journal of Islamic Manuscripts*
