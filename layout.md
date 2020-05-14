@@ -41,4 +41,4 @@ A final aspect of layout that you most often see in poetry, are **lines set at a
 
 That concludes the introduction to layout. Do the [**Layout exercise**](https://forms.gle/5b23curSPZX7xUuG8) now, or jump to any other page you like.
 
-You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.
+You can also go check out the [**References**](/islamicmss/references/), other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.
