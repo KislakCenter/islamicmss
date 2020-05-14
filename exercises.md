@@ -20,8 +20,10 @@ And here is a cumulative exercise, for when you have read through everything. It
 
 - [**Cumulative exercise**](https://forms.gle/r14oKspKtkJKzWUc9)
 
-Now that you are done with everything, go back to the [Manuscripts of the Muslim World project on OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html) and look at the manuscripts. See what aspects of them you can now recognize.
+### Now What?
 
-You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 
+Now that you are done with everything, go to a repository or back to the [Manuscripts of the Muslim World project on OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html) and look at the manuscripts. See what aspects of them you can now recognize. If you need a worksheet to help you describe a manuscript, you can download my [cataloging worksheet](/islamicmss/assets/description.pdf) and use that as a guide.
+
+You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.
 
 Thanks for reading.
