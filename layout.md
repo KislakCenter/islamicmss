@@ -11,7 +11,7 @@ Islamicate manuscripts are generally laid out in one column with fairly wide mar
 
 Below is an example of a fairly standard **prose** layout with wide margins all around and marginal lines and annotations.
 
-![illustration of a prose layout](/islamicmss/assets/prose-layout.png)(Image: UPenn Libraries[Ms. Codex 1896](http://openn.library.upenn.edu/Data/0002/html/mscodex1896.html) from OPenn)
+![illustration of a prose layout](/islamicmss/assets/prose-layout.png)(Image: UPenn Libraries [Ms. Codex 1896](http://openn.library.upenn.edu/Data/0002/html/mscodex1896.html) from OPenn)
 
 From the same manuscript, here's a photo of rules. Lines and columns are ruled, so that when the scribe copies the text, the lines come out straight; this was generally done in blind (without ink), as you see in the photo below. These rulings were made using a frame rule (mistarah), or ruling board which is a piece of card with threads sewn onto it that mark the lines. It is then put under a page and rubbed over with a smoothing device to create indentations in the page. Those indentations are the line rules.
 
@@ -41,4 +41,4 @@ A final aspect of layout that you most often see in poetry, are **lines set at a
 
 That concludes the introduction to layout. Do the [**Layout exercise**](https://forms.gle/5b23curSPZX7xUuG8) now, or jump to any other page you like.
 
-You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 
+You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.
