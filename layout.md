@@ -5,7 +5,7 @@ permalink: /layout/
 order: 4
 ---
 {% include back-to-top.html %}
-Islamicate manuscripts are generally laid out in one column with fairly wide margins on the three outer sides for marginal commentary and notes. The exception to this rule is poetry, which is generally written in two or more columns. Lines and columns are ruled, so that when the scribe copies the text, the lines come out straight; this was generally done in blind (without ink).
+Islamicate manuscripts are generally laid out in one column with fairly wide margins on the three outer sides for marginal commentary and notes. The exception to this rule is poetry, which is generally written in two or more columns.
 
 ### Prose
 
@@ -40,3 +40,5 @@ A final aspect of layout that you most often see in poetry, are **lines set at a
 ![illustration of angled lines used before a colophon](/islamicmss/assets/nep33-colophon.jpg)(Image: Penn Museum [NEP33](http://openn.library.upenn.edu/Data/0016/html/NEP33.html) from OPenn)
 
 That concludes the introduction to layout. Do the [**Layout exercise**](https://forms.gle/5b23curSPZX7xUuG8) now, or jump to any other page you like.
+
+You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 

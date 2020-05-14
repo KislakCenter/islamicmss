@@ -14,7 +14,7 @@ This site holds **basic** information and resources relating to  the study of Is
 
  At the bottom of each page (except Notes) is a link to a short exercise that will let you test your knowledge. You can also access any of the exercises from the [**Exercises**](/islamicmss/exercises) page.
 
- Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of additional aspects of manuscripts that may be of use to you, the [**References**](/islamicmss/references/) page has a short bibliography which will help you get started on further research, and the [**Resources**](/islamicmss/resources/) page has explanataions of tools and resources at The Schoenberg Institute of Manuscript Studies which may be of use to you.
+ Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of additional aspects of manuscripts that may be of use to you, the [**References**](/islamicmss/references/) page has a short bibliography which will help you get started on further research, and the [**Resources**](/islamicmss/resources/) page has explanations of tools and resources at The Schoenberg Institute of Manuscript Studies which may be of use to you.
 
 ### **Things to Know**
 
@@ -29,4 +29,4 @@ If you are *unfamiliar* with Perso-Arabic script, please start with the [**Basic
 
 Happy learning.
 
-![SIMS logo](/islamicmss/assets/sims-small.jpg)
+[![SIMS logo](/islamicmss/assets/sims-small.jpg)](https://schoenberginstitute.org/)

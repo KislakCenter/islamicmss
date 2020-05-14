@@ -39,7 +39,9 @@ Scripts can be combined together to create beauty, but also to help orient the r
 Three other scripts of which you should also be aware are Early Abbasid, also known as Kufic, which was used in early copies of the Qur'an (9th/10th century) and ruqʻah and diwani which are later Ottoman scripts. Examples of these can be found in OPenn. Click on the name of the script for examples of each.
 
 - [**Early Abbasid/Kufic**](http://openn.library.upenn.edu/Data/0023/lewis_t449/data/web/8928_0000_web.jpg): Free Library of Philadelphia, [Lewis T449](http://openn.library.upenn.edu/Data/0023/html/lewis_t449.html), Qur'an leaf, 9th/10th century.
-- [**Ruqʻah**](http://openn.library.upenn.edu/Data/0043/Mss_494_9_T84/data/web/9785_0008_web.jpg): American Philosophical Society, [Mss 494.9T84](http://openn.library.upenn.edu/Data/0043/html/Mss_494_9_T84.html), [Handbook for composing letters], 19th c.
+- [**Ruqʻah**](http://openn.library.upenn.edu/Data/0043/Mss_494_9_T84/data/web/9785_0008_web.jpg): American Philosophical Society, [Mss 494.9T84](http://openn.library.upenn.edu/Data/0043/html/Mss_494_9_T84.html), [Handbook for composing letters], 19th century.
 - [**Diwani**](http://openn.library.upenn.edu/Data/0043/mscoll200_firman/data/web/9676_0002_web.jpg): American Philosophical Society, [Ms. Coll. 200](http://openn.library.upenn.edu/Data/0043/html/mscoll200_firman.html), Firman, 19th century.
 
 That concludes the introduction to Scripts. You can do the [**Scripts exercise**](https://forms.gle/mkfQZnUtukct1gtf9) now, or jump to any other page you like.
+
+You can also go check out the [**References**](/islamicmss/references/) other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.

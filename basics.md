@@ -27,4 +27,4 @@ Please also note about Perso-Arabic script that there are **no** capital letters
 
 ![image with overlining and rubrications](http://openn.library.upenn.edu/Data/0002/mscodex27_v1/data/web/9397_0005_web.jpg)(Penn Libraries, [Ms. Codex 27, vol. 1](http://openn.library.upenn.edu/Data/0002/html/mscodex27_v1.html))
 
-That's a very basic intro to Perso-Arabic script. You can do the [**Basics exercise**](https://forms.gle/M66q8gTwXBcuRMtS9) now, or continue to other pages as you like.
+That's a very basic intro to Perso-Arabic script. You can do the [**Basics exercise**](https://forms.gle/M66q8gTwXBcuRMtS9) now, or go back to the top and continue to other pages as you like.

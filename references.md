@@ -12,6 +12,7 @@ This is a short and incomplete list of resources related to Islamic manuscript s
 These sites contain volumes of information that will help you. Bookmark them!
 - [Evyn Kropf's supremely useful Islamic manuscript libguides](https://guides.lib.umich.edu/islamicmsstudies)
 - [Professor Jan Just Witkam's Islamic manuscripts site](http://www.islamicmanuscripts.info/index.html)
+- [Digital Orientalist](https://digitalorientalist.com/)
 
 ### General Intros and Guides
 
@@ -24,6 +25,8 @@ Gacek, Adam (2001) *The Arabic Manuscript Tradition: A Glossary of Technical Ter
 ---. (2008) *The Arabic Manuscript Tradition: A Glossary of Technical Terms & Bibliography– Supplement*. Leiden.
 
 ---. (2009) *Arabic Manuscripts: A Vademecum for Readers*. Leiden.
+
+Lit, L.W.C. van. (2020) *Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World*. Leiden. Free to download!
 
 ### Journals
 - *Journal of Islamic Manuscripts*
@@ -120,3 +123,6 @@ Roxburgh. David J. (2007) *Writing the Word of God: Calligraphy and the Qur’an
 Schimmel, Annemarie (1984) *Calligraphy and Islamic Culture*. New York and London.
 
 Teh Gallop, Annabel (1991) *Golden Letters: Writing Traditions of Indonesia*. London.
+
+The concludes the References.
+You can also go check out the other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.

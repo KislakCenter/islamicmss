@@ -31,6 +31,7 @@ github_username:  tuttlke
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 header_pages:
   - basics.md
@@ -40,11 +41,9 @@ header_pages:
   - scripts.md
   - decoration.md
   - notes.md
-  - glossary.md
-  - references.md
-  - resources.md
   - exercises.md
   - about.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
