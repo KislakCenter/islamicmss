@@ -6,7 +6,7 @@ layout: home
 ---
 ![Title with decoration](/islamicmss/assets/basics.jpg)
 
-This site holds **basic** information and resources relating to  the study of Islamic manuscripts. If you are new to thinking about the material aspects of Islamic manuscripts or are simply curious and want to know more, then this site is for you!
+This site holds basic information and resources relating to  the study of Islamic manuscripts. If you are new to thinking about the material aspects of Islamic manuscripts or are simply curious and want to know more, then this site is for you!
 
 ### **Organization**
 
@@ -14,7 +14,7 @@ This site holds **basic** information and resources relating to  the study of Is
 
  At the bottom of each page (except Notes) is a link to a short exercise that will let you test your knowledge. You can also access any of the exercises from the [**Exercises**](/islamicmss/exercises) page.
 
- Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of additional aspects of manuscripts that may be of use to you, the [**References**](/islamicmss/references/) page has a short bibliography which will help you get started on further research, and the [**Resources**](/islamicmss/resources/) page has explanations of tools and resources at The Schoenberg Institute of Manuscript Studies which may be of use to you.
+ Finally, the [**Glossary**](/islamicmss/glossary/) page has photos of additional aspects of manuscripts that may be of use to you, the [**References**](/islamicmss/references/) page has a short bibliography which will help you get started on further research, and the [**SIMS Resources**](/islamicmss/sims/) page has explanations of tools and resources at The Schoenberg Institute of Manuscript Studies which may be of use to you.
 
 ### **Things to Know**
 

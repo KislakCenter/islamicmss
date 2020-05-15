@@ -60,4 +60,4 @@ On this page are photos of specific things that may be of use to orient you as y
 ![Watermarks](/islamicmss/assets/watermarks.jpg)
 
 This concludes the photo guide.
-You can check out the [**References**](/islamicmss/references/) and other SIMS [**Resources**](/islamicmss/resources/) here, or go back to the [**Content Pages**](/islamicmss/). 
+You can check out the [**References**](/islamicmss/references/) and other [**SIMS Resources**](/islamicmss/sims/) here, or go back to the [**Content Pages**](/islamicmss/). 

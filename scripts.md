@@ -44,4 +44,4 @@ Three other scripts of which you should also be aware are Early Abbasid, also kn
 
 That concludes the introduction to Scripts. You can do the [**Scripts exercise**](https://forms.gle/mkfQZnUtukct1gtf9) now, or jump to any other page you like.
 
-You can also go check out the [**References**](/islamicmss/references/), other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.
+You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.

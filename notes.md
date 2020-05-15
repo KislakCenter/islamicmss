@@ -43,4 +43,4 @@ Manuscript notes can tell us much about where a manuscript has traveled, how it 
 
 That concludes the Notes section. There is no activity to go with this section, so please continue to any other page now. Or, if you are finished, go to the [**Exercises**](/islamicmss/exercises/) page and do the cumulative exercise.
 
-You can also go check out the [**References**](/islamicmss/references/), other SIMS [**Resources**](/islamicmss/resources/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/).  
+You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/).  

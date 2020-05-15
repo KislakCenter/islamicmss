@@ -23,4 +23,4 @@ Another type of binding that you may see, particularly on works produced in Pers
 
 That concludes the introduction to binding. You can do the [**Bindings exercise**](https://forms.gle/8XTHLcYocPG7yhN17) now, or jump to any other page you like.
 
-You can also go check out the [**References**](/islamicmss/references/), other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 
+You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 

@@ -125,4 +125,4 @@ Schimmel, Annemarie (1984) *Calligraphy and Islamic Culture*. New York and Londo
 Teh Gallop, Annabel (1991) *Golden Letters: Writing Traditions of Indonesia*. London.
 
 The concludes the References.
-You can also go check out the other SIMS [**Resources**](/islamicmss/resources/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/). 
+You can also go check out the other [**SIMS Resources**](/islamicmss/sims/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/). 

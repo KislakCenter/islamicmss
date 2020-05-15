@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: SIMS
+permalink: /sims/
 order: 10
 ---
 {% include back-to-top.html %}
@@ -37,4 +37,4 @@ VisColl is a way to visualize and model the collation of a manuscript. You can u
 Manuscript Studies is a new journal that embraces the full complexity of global manuscript studies in the digital age. It has been conceived with four main goals in mind. First, to bridge the gaps between material and digital manuscript research; second, to break down the walls which often separate print and digital publication and serve as barriers between academics, professionals in the cultural heritage field, and citizen scholars; third, to serve as a forum for scholarship encompassing many pre-modern manuscripts cultures—not just those of Europe; and finally to showcase methods and techniques of analysis in manuscript studies that can be applied across different subject areas. The journal accepts submissions on a rolling basis, so if you've got an article ready, send it our way!
 
 --------------------
-You can also go check out the [**References**](/islamicmss/references/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/). 
+You can also go check out the [**References**](/islamicmss/references/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/).

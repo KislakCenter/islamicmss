@@ -52,4 +52,4 @@ As you can perhaps tell from the above images, traditionally, text is written fi
 
 Decoration is a large topic. This page only begins to brush the surface. See the [Bibliography](/islamicmss/bibliography/) for other places to search for resources. That concludes the introduction to decoration.  Do the [**Decoration exercise**](https://forms.gle/1PggtuVpLKD6WkGZ9) now, or jump to any other page you like.
 
-You can also go check out the [**References**](/islamicmss/references/), other SIMS [**Resources**](/islamicmss/resources/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 
+You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 

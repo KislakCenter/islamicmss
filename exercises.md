@@ -24,6 +24,6 @@ And here is a cumulative exercise, for when you have read through everything. It
 
 Now that you are done with everything, go to a repository or back to the [Manuscripts of the Muslim World project on OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html) and look at the manuscripts. See what aspects of them you can now recognize. If you need a worksheet to help you describe a manuscript, you can download my [cataloging worksheet](/islamicmss/assets/description.pdf) and use that as a guide.
 
-You can also go check out the [**References**](/islamicmss/references/), other SIMS [**Resources**](/islamicmss/resources/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/) to reread anything.
+You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/), look at the [**Glossary**](/islamicmss/glossary/) for more photos, or go back to the [**Content Pages**](/islamicmss/) to reread anything.
 
 Thanks for reading.
