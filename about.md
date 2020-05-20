@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-order: 11
+order: 12
 ---
 ### The site
 
