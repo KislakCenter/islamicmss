@@ -2,7 +2,7 @@
 layout: page
 title: Glossary
 permalink: /glossary/
-order: 9
+order: 8
 ---
 {% include back-to-top.html %}
 On this page are photos of specific things that may be of use to orient you as you begin to work with Islamic manuscripts. This list is alphabetically arranged. Think of it as a picture glossary. When a word is linked, the link leads to the [Language of Bindings Thesaurus](https://www.ligatus.org.uk/lob/) definition of that concept. All images from [OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html)
@@ -60,4 +60,4 @@ On this page are photos of specific things that may be of use to orient you as y
 ![Watermarks](/islamicmss/assets/watermarks.jpg)
 
 This concludes the photo guide.
-You can check out the [**References**](/islamicmss/references/) and other [**SIMS Resources**](/islamicmss/sims/) here, or go back to the [**Content Pages**](/islamicmss/). 
+You can check out the [**References**](/islamicmss/references/) and other [**SIMS Resources**](/islamicmss/sims/) here, or go back to the [**Content Pages**](/islamicmss/).
