@@ -5,6 +5,7 @@ permalink: /layout/
 order: 4
 ---
 {% include back-to-top.html %}
+{% include previous-next.html %}
 Islamicate manuscripts are generally laid out in one column with fairly wide margins on the three outer sides for marginal commentary and notes. The exception to this rule is poetry, which is generally written in two or more columns.
 
 ### Prose

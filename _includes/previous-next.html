@@ -1,0 +1,11 @@
+{% assign prev_index = page.order| minus: 1 %}
+{% assign next_index = page.order | plus: 1 %}
+{% assign next = site.pages | where: "order", next_index | first %}
+{% assign prev = site.pages | where: "order", prev_index | first %}
+{% assign prevurl = prev.url %}
+{% assign nexturl = next.url %}
+{% if prev %}
+<a href="{{ site.baseurl }}{{ prevurl }}">&laquo; {{prev.title}}</a> |
+{% endif %}<span>{{page.title}}</span>{% if next %}
+| <a href="{{ site.baseurl }}{{ nexturl }}">{{next.title}} &raquo;</a>
+{% endif %}

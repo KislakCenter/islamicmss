@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 order: 12
 ---
+{% include previous-next.html %}
 ### The site
 
 This site, a part of the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/), was created to go along with the [Manuscripts of the Muslim World (MMW)](http://openn.library.upenn.edu/html/muslimworld_contents.html) project. It is meant to introduce novices to the basics of looking at Islamic manuscripts.

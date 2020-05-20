@@ -5,6 +5,7 @@ permalink: /basics/
 order: 1
 ---
 {% include back-to-top.html %}
+{% include previous-next.html %}
 Islamic manuscripts are, in large part, written in Perso-Arabic script languages which include Arabic, Persian, Ottoman Turkish, Urdu and other languages.
 
 The script is read **right-to-left**, which means that when you open a book, the spine will be on the right and the fore-edge on the left. You then read from right-to-left.

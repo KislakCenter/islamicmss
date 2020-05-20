@@ -5,6 +5,7 @@ permalink: /references/
 order: 10
 ---
 {% include back-to-top.html %}
+{% include previous-next.html %}
 This is a short and incomplete list of resources related to Islamic manuscript studies. It contains primarily items in English and is meant to help you get started and find other resources.
 
 ### Websites

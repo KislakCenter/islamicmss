@@ -5,6 +5,7 @@ permalink: /substrate/
 order: 3
 ---
 {% include back-to-top.html %}
+{% include previous-next.html %}
 The **substrate** refers to the material on which the manuscript is written. One of the three p's generally makes up the substrate in the Islamicate world: **Papyrus**, **Parchment**, **Paper**. Among those, paper is far and away the most common substrate, though parchment also shows up.
 
 ### Parchment
@@ -50,4 +51,4 @@ Here's a side view of a stack of quires. As you can see, there are two sewing st
 
 That concludes the introduction to substrate and collation. You can do the [**Substrate exercise**](https://forms.gle/EFyS51SgMQTCQM9n8) now, or jump to any other page you like.
 
-You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos. 
+You can also go check out the [**References**](/islamicmss/references/), other [**SIMS Resources**](/islamicmss/sims/) or look at the [**Glossary**](/islamicmss/glossary/) for more photos.

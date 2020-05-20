@@ -5,6 +5,7 @@ permalink: /sims/
 order: 11
 ---
 {% include back-to-top.html %}
+{% include previous-next.html %}
 This page contains brief explanations of tools and resources associated with the Schoenberg Institute for Manuscript Studies (SIMS) which may be of use to you.
 
 ------------------

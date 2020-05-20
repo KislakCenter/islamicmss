@@ -5,6 +5,7 @@ permalink: /notes/
 order: 7
 ---
 {% include back-to-top.html %}
+{% include previous-next.html %}
 Manuscript notes are anything that someone writes in the manuscript that is not part of the text being copied or decorations that go with it. Manuscript notes can be divided into three basic categories:
 - Legal notes,
 - Textual notes,
