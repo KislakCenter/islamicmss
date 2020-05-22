@@ -21,10 +21,10 @@ In the Islamicate world, paper basically comes in three general types:
 - visible laid lines only and
 - visible laid and chain lines.
 
-This refers to what you see when you hold a leaf up to light. Handmade papers generally have some sort of pattern you can see, the exception is wove paper which has no pattern. Other papers generally have **chain lines** (wider spaced lines) and **laid lines**, also called water lines (narrowly spaced lines). These lines are a result of the mold on which the paper is made. This photo with labels shows a detail of laid and chain lines and a watermark.
+This refers to what you see when you hold a leaf up to light. Handmade papers generally have some sort of pattern you can see, the exception is wove paper which has no pattern. Other papers generally have **chain lines** (wider spaced lines) and **laid lines**, also called water lines (narrowly spaced lines). These lines are a result of the mold on which the paper is made. This photo with labels shows a detail of laid and chain lines and a watermark of a horse.
 
 ![Picture of paper with laid and chain lines labeled](/islamicmss/assets/laid-and-chain-lines.jpg)
-(Image: Kelly Tuttle)
+(Image: Kelly Tuttle from Upenn Libraries [Ms. Codex 1951](http://openn.library.upenn.edu/Data/0002/html/mscodex1951.html))
 
 **Indo-Persian handmade paper** generally has laid lines only, so only the closely-spaced lines. This type of paper was made on a reed or grass mold and was used all over the Eastern portion of the Islamicate world even up to the 20th century. For a manuscript showing the process of papermaking in the Indo-Persian world and a description with modern pictures of how it is done, see the British Library's [post about a papermaking workshop they held](https://britishlibrary.typepad.co.uk/collectioncare/2015/04/making-islamic-style-paper.html).
 
