@@ -11,7 +11,7 @@ This is a short and incomplete list of resources related to Islamic manuscript s
 ### Websites
 
 These sites contain volumes of information that will help you. Bookmark them!
-- [Evyn Kropf's supremely useful Islamic manuscript libguides](https://guides.lib.umich.edu/islamicmsstudies)
+- [Evyn Kropf's University of Michigan Libraries Islamic manuscript libguides](https://guides.lib.umich.edu/islamicmsstudies)
 - [Professor Jan Just Witkam's Islamic manuscripts site](http://www.islamicmanuscripts.info/index.html)
 - [Digital Orientalist](https://digitalorientalist.com/)
 
