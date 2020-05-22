@@ -40,7 +40,7 @@ Watermarks on made-for-export European paper often involved crescent moons of so
 
 ### Collation
 
-Codices are made up of stacks of folded leaves. A leaf folded in half is called a **bifolium**, when put into a stack and then folded, you get a **quire or gathering**. Those quires are stacked one atop the other and sewn in two or four **stations**. It is common to find quires of 5 bifolia which means 10 leaves and 20 pages. This illustration from Adam Gacek's *Arabic Manuscripts* may help you visualize it. The illustration also shows how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the illustration, "f." stands for folio, meaning leaf, and "p." stands for page, meaning one side of a leaf.
+Codices are made up of stacks of folded leaves. A leaf folded in half is called a **bifolium**, when put into a stack and then folded, you get a **quire or gathering**. Those quires are stacked one atop the other and sewn in two or four **stations**. It is common to find quires of 5 bifolia which means 10 leaves and 20 pages. This illustration from Adam Gacek's *Arabic Manuscripts* may help you visualize it. The illustration also shows how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the illustration, "f." stands for folio, meaning half of a folded leaf, and "p." stands for page, meaning one side of a folio.
 
 ![Collation](/islamicmss/assets/codices.jpg)
 (Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
