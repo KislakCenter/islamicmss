@@ -19,9 +19,9 @@ We have mentioned OPenn several times in this site because it is where the digit
 
 #### [**The Schoenberg Database of Manuscripts (SDBM)**](https://sdbm.library.upenn.edu/)
 
-This database is a provenance database. It aggregates information about the trade in pre-modern manuscripts from around the world. The SDBM is also user-maintained which means that *you* can contribute to it and further our knowledge of where manuscripts have been, which manuscripts are out there, who has owned them, read them, written in them, sold them, bought them. You get the idea. For an intro to how to use the database and how to contribute, start with this video from Emma Thompson, Project Coordinator for the Schoenberg Database.
+This database is a provenance database. It aggregates information about the trade in pre-modern manuscripts from around the world. The SDBM is also user-maintained which means that *you* can contribute to it and further our knowledge of where manuscripts have been, which manuscripts are out there, who has owned them, read them, written in them, sold them, bought them. You get the idea. For an informative webinar on how to use the database and how to contribute, start with this video from Emma Thompson, Project Coordinator for the Schoenberg Database.
 
-[![SDBM](http://img.youtube.com/vi/ZQfsr9R1FlU/0.jpg)](http://www.youtube.com/watch?v=ZQfsr9R1FlU "Getting started with Schoenberg Database")
+[![](http://img.youtube.com/vi/pn6H0I4sS4Q/0.jpg)](http://www.youtube.com/watch?v=pn6H0I4sS4Q "How to use the SDBM")
 
 -----------------
 
