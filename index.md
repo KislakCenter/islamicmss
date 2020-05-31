@@ -24,7 +24,7 @@ You can find digital collections of Islamic manuscripts used on this website in 
 
 ### **Where to Start**
 
-If you are *unfamiliar* with Perso-Arabic script, please start with the [**Basics**](/islamicmss/basics/) page, if you *are* familiar with it, then choose any other page to begin.
+If you are *unfamiliar* with Perso-Arabic script, please start with the [**Basics**](/islamicmss/basics/) page, if you *are* familiar with it, then choose any other page to begin. We recommend beginning with [**Binding**](/islamicmss/binding/) and working your way through the pages in order.
 
 
 Happy learning.
