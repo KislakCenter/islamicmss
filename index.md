@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Title with decoration](/islamicmss/assets/basics.jpg)
+<img width="100%" src="/islamicmss/assets/Website-other-header.jpg" alt="Title Headpiece from NEP33, Penn Museum">
 
 This site holds basic information and resources relating to  the study of Islamic manuscripts. If you are new to thinking about the material aspects of Islamic manuscripts or are simply curious and want to know more, then this site is for you!
 
