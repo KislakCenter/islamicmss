@@ -44,10 +44,13 @@ Watermarks on made-for-export European paper often involved crescent moons of so
 
 ### Structure
 
-Codices (manuscript books) are made up of stacks of folded sheets or leaves, called folios. Each folio has two pages: the front side is called the recto or "a" side, and the back is the verso or "b" side. These stacks are called **quires or gatherings** and consist of groups of leaves or folios folded in half to form **bifolia** (singular: bifolium). The quires are then placed one on top of the other and sewn together through two or four **stitching stations**. It is common to find quires of 5 bifolia which means 10 leaves and 20 pages. This illustration from Adam Gacek's *Arabic Manuscripts* may help you visualize it. The illustration also shows how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the illustration, "f." stands for folio, meaning half of a folded leaf, and "p." stands for page, meaning one side of a folio.
+Codices (manuscript books) are made up of stacks of folded sheets or leaves, called folios. Each folio has two pages: the front side is called the recto or "a" side, and the back is the verso or "b" side. These stacks are called **quires or gatherings** and consist of groups of leaves or folios folded in half to form **bifolia** (singular: bifolium). The quires are then placed one on top of the other and sewn together through two or four **stitching stations**. It is common to find quires of 5 bifolia which means 10 leaves and 20 pages. The illustrations from Adam Gacek's *Arabic Manuscripts* and Karin Scheper and Paul Hepworth's site, [Islamic Manuscript Conservation](https://www.islamicmanuscriptconservation.org/index.html) may help you visualize the quire more easily. The illustrations also show how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the top set of illustrations, "f." stands for folio, meaning half of a folded leaf, and "p." stands for page, meaning one side of a folio.
 
 ![Collation](/islamicmss/assets/codices.jpg)
 (Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
+
+![Linkstitching](/islamicmss/assets/Linkstitch.jpg)
+(Images from: Karin Scheper, "Structure" on [Islamic Manuscript Conservation Terminology](https://www.islamicmanuscriptconservation.org/terminology/structure-en.html))
 
 Here's a side view of a stack of quires. As you can see, there are two sewing stations, but the threads used for both stations have broken or come apart over time so that the quires no longer are attached together and slip around when the manuscript is open.
 

@@ -6,9 +6,9 @@ order: 9
 ---
 {% include back-to-top.html %}
 {% include previous-next.html %}
-On this page are photos of specific things that may be of use to orient you as you begin to work with Islamic manuscripts. This list is alphabetically arranged. Think of it as a picture glossary. When a word is linked, the link leads to the [Language of Bindings Thesaurus](https://www.ligatus.org.uk/lob/) definition of that concept. All images from [OPenn](http://openn.library.upenn.edu/html/muslimworld_contents.html)
+On this page are photos of specific things that may be of use to orient you as you begin to work with Islamic manuscripts. This list is alphabetically arranged. Think of it as a picture glossary. When a word is linked, the link leads to the [Islamic Manuscript Conservation Terminology](https://www.islamicmanuscriptconservation.org/terminology/introduction-en.html) Site, where you can find images and explanations of a wide variety of Islamic bookbinding terminology.
 
-[**Block-stamped**](https://www.ligatus.org.uk/lob/concept/3586): A way of decorating the inside cover, usually the doublure, using an engraved block which makes the stamped leather darker and the remaining unstamped leather lighter. This image is from the inside cover of Penn Museum [NEP80](http://openn.library.upenn.edu/Data/0016/html/NEP80.html) The block-stamped portion is in the middle of the image.
+[**Block-stamped**](https://www.islamicmanuscriptconservation.org/terminology/binding-block-stamped_leather-en.html): A way of decorating the inside cover, usually the doublure, using an engraved block which makes the stamped leather darker and the remaining unstamped leather lighter. This image is from the inside cover of Penn Museum [NEP80](http://openn.library.upenn.edu/Data/0016/html/NEP80.html) The block-stamped portion is in the middle of the image.
 
 ![Block-stamped](/islamicmss/assets/NEP80-inside-cover.jpg)
 
@@ -28,7 +28,7 @@ On this page are photos of specific things that may be of use to orient you as y
 
 ![Colophons](/islamicmss/assets/colophons.jpg)
 
-[**Filigree**](https://www.ligatus.org.uk/lob/concept/2895): A binding decoration where a pattern of gilded paper or leather is cut out and laid over another design. It is most often applied to the inside covers or doublures, since those are more protected from wear and tear. The image below shows two inside covers with details. On the left from Free Library of Philadelphia, [Lewis O 53](http://openn.library.upenn.edu/Data/0023/html/lewis_o_053.html), and on the right from UPenn Libraries, [LJS 387](http://openn.library.upenn.edu/Data/0001/html/ljs387.html). The one on the right is more worn and you can see how the filigree overlay has fallen off, but the same style is visible in both. The one on the left has textile rather than paper for the colors underneath the filigree.
+[**Filigree**](https://www.islamicmanuscriptconservation.org/terminology/binding-filigree_work_on_leather-en.html): A binding decoration where a pattern of gilded paper or leather is cut out and laid over another design. It is most often applied to the inside covers or doublures, since those are more protected from wear and tear. The image below shows two inside covers with details. On the left from Free Library of Philadelphia, [Lewis O 53](http://openn.library.upenn.edu/Data/0023/html/lewis_o_053.html), and on the right from UPenn Libraries, [LJS 387](http://openn.library.upenn.edu/Data/0001/html/ljs387.html). The one on the right is more worn and you can see how the filigree overlay has fallen off, but the same style is visible in both. The one on the left has textile rather than paper for the colors underneath the filigree.
 
 ![Filigree](/islamicmss/assets/filigree.jpg)
 
@@ -36,11 +36,11 @@ On this page are photos of specific things that may be of use to orient you as y
 
 ![Headpiece](/islamicmss/assets/headpiece.jpg)
 
-[**Inlay**](https://www.ligatus.org.uk/lob/concept/4236): Another binding decoration technique where the leather of the cover is cut away and an insert in the same shape is placed into the space. The filigree design, above, is an inlay design. If you were to run your fingers over the cover pictured above, you would find that the design is flush with the leather, not raised, because it is not stuck on the leather, but set into it. A detail from the same cover is provided below. You can clearly see where the red leather has been cut away so that the lobed medallion can be placed into the open area.
+[**Inlay**](https://www.islamicmanuscriptconservation.org/terminology/binding-inlay-en.html): Another binding decoration technique where the leather of the cover is cut away and an insert in the same shape is placed into the space. The filigree design, above, is an inlay design. If you were to run your fingers over the cover pictured above, you would find that the design is flush with the leather, not raised, because it is not stuck on the leather, but set into it. A detail from the same cover is provided below. You can clearly see where the red leather has been cut away so that the lobed medallion can be placed into the open area.
 
 ![Inlay](/islamicmss/assets/lewisO53-inlay-detail.jpg)
 
-[**Onlay**](https://www.ligatus.org.uk/lob/concept/1462): Another binding decoration technique in which paper (and very seldom, leather) is cut out and laid over the leather of the outer covers. The onlay is then usually blind or gilt-stamped. Onlays can peel off if the storage conditions of the book are not ideal. Even if they do peel off, a shadow or impression from where they were usually remains. The image below is a detail of the central medallion from Columbia University RBML [MS Or 50](http://openn.library.upenn.edu/Data/0032/html/ms_or_050.html).
+[**Onlay**](https://www.islamicmanuscriptconservation.org/terminology/binding-overlay-en.html): Another binding decoration technique in which paper (and very seldom, leather) is cut out and laid over the leather of the outer covers. The onlay is then usually blind or gilt-stamped. Onlays can peel off if the storage conditions of the book are not ideal. Even if they do peel off, a shadow or impression from where they were usually remains. The image below is a detail of the central medallion from Columbia University RBML [MS Or 50](http://openn.library.upenn.edu/Data/0032/html/ms_or_050.html).
 
 ![Onlay](/islamicmss/assets/onlay-detail.jpg)
 
@@ -48,7 +48,7 @@ On this page are photos of specific things that may be of use to orient you as y
 
 ![Text dividers](/islamicmss/assets/marginalmedallions.jpg)
 
-[**Tooled**](https://www.ligatus.org.uk/lob/concept/1678): Tooled leather covers are covers that have been [blind-tooled](https://www.ligatus.org.uk/lob/concept/2288) (tooled without color) or [gold-tooled](https://www.ligatus.org.uk/lob/concept/1371) (tooled using gold) to create a design. This image is the outside of a Mamluk style cover, Penn Libraries Katz Center [CAJS Rar Ms 123](http://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms123.html). Different tools, including various kinds of stamps, were used to create the patterns of lines, dots and geometric shapes.
+[**Tooling**](https://www.islamicmanuscriptconservation.org/terminology/binding-tooling-en.html): Tooled leather covers are covers that have been [blind-tooled](https://www.islamicmanuscriptconservation.org/terminology/binding-blind_tooling-en.html) (tooled without color) or [gilded](https://www.islamicmanuscriptconservation.org/terminology/binding-gilding_of_leather-en.html) (tooled using gold) to create a design. This image is the outside of a Mamluk style cover, Penn Libraries Katz Center [CAJS Rar Ms 123](http://openn.library.upenn.edu/Data/0002/html/kcajs_rar_ms123.html). Different tools, including various kinds of stamps, were used to create the patterns of lines, dots and geometric shapes.
 
 ![Tooled](/islamicmss/assets/tooled.jpg)
 
