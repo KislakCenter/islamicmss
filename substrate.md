@@ -50,7 +50,7 @@ Codices (manuscript books) are made up of stacks of folded sheets or leaves, cal
 (Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
 
 ![Linkstitching](/islamicmss/assets/Linkstitch.jpg)
-(Images from: Karin Scheper, "Structure" on [Islamic Manuscript Conservation Terminology](https://www.islamicmanuscriptconservation.org/terminology/structure-en.html))
+(Images from: Karin Scheper, "Structure" on [Islamic Manuscript Conservation Terminology](https://www.islamicmanuscriptconservation.org/terminology/structure-en.html) [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Here's a side view of a stack of quires. As you can see, there are two sewing stations, but the threads used for both stations have broken or come apart over time so that the quires no longer are attached together and slip around when the manuscript is open.
 
