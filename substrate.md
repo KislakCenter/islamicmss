@@ -44,10 +44,7 @@ Watermarks on made-for-export European paper often involved crescent moons of so
 
 ### Structure
 
-Codices (manuscript books) are made up of stacks of folded sheets or leaves, called folios. Each folio has two pages: the front side is called the recto or "a" side, and the back is the verso or "b" side. These stacks are called **quires or gatherings** and consist of groups of leaves or folios folded in half to form **bifolia** (singular: bifolium). The quires are then placed one on top of the other and sewn together through two or four **stitching stations**. It is common to find quires of 5 bifolia which means 10 leaves and 20 pages. The illustrations from Adam Gacek's *Arabic Manuscripts* and Karin Scheper and Paul Hepworth's site, [Islamic Manuscript Conservation](https://www.islamicmanuscriptconservation.org/index.html) may help you visualize the quire more easily. The illustrations also show how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the top set of illustrations, "f." stands for folio, meaning half of a folded leaf, and "p." stands for page, meaning one side of a folio.
-
-![Collation](/islamicmss/assets/codices.jpg)
-(Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
+Codices (manuscript books) are made up of stacks of folded sheets or leaves, called folios. Each folio has two pages: the front side is called the recto or "a" side, and the back is the verso or "b" side. These stacks are called **quires or gatherings** and consist of groups of leaves or folios folded in half to form **bifolia** (singular: bifolium). The quires are then placed one on top of the other and sewn together through two or four **stitching stations**. See the images below from Karin Scheper and Paul Hepworth's site, [Islamic Manuscript Conservation](https://www.islamicmanuscriptconservation.org/index.html) to help you visualize how the quires are sewn.
 
 ![Linkstitching](/islamicmss/assets/Linkstitch.jpg)
 (Images from: Karin Scheper, "Structure" on [Islamic Manuscript Conservation Terminology](https://www.islamicmanuscriptconservation.org/terminology/structure-en.html) [(CC-BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -55,6 +52,13 @@ Codices (manuscript books) are made up of stacks of folded sheets or leaves, cal
 Here's a side view of a stack of quires. As you can see, there are two sewing stations, but the threads used for both stations have broken or come apart over time so that the quires no longer are attached together and slip around when the manuscript is open.
 
 ![Quires](/islamicmss/assets/quires.jpg)(Image: Kelly Tuttle)
+
+When looking at a quire, it is common to find 5 bifolia in each one, which means 10 leaves and 20 pages. The illustrations below from Adam Gacek's *Arabic Manuscripts* may help you visualize this. The illustrations also show how a single leaf **(singleton)** can be added to a bifolium to make a set of three leaves. In the top set of illustrations, "f." stands for folio, meaning half of a folded leaf, and "p." stands for page, meaning one side of a folio.
+
+![Collation](/islamicmss/assets/codices.jpg)
+(Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
+
+Collation, that is, figuring out the number of leaves in a quire and how many quires are in a codex can be quite difficult depending on whether single leaves have been added or removed, whether each quire has the same number of leaves, and how tight the binding is. It is often helpful to look for the sewing (thread) on the inside of a quire to find the middle of that quire. Then you can count from middle to middle to try to determine the number of leaves in a quire.
 
 That concludes the introduction to substrate and structure. You can do the [**Substrate exercise**](https://forms.gle/EFyS51SgMQTCQM9n8) now, or jump to any other page you like.
 
