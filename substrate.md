@@ -58,7 +58,7 @@ When looking at a quire, it is common to find 5 bifolia in each one, which means
 ![Collation](/islamicmss/assets/codices.jpg)
 (Images from: Adam Gacek (2009) *Arabic Manuscripts*, pp. 107, 210-11, 248)
 
-Collation, that is, figuring out the number of leaves in a quire and how many quires are in a codex can be quite difficult depending on whether single leaves have been added or removed, whether each quire has the same number of leaves, and how tight the binding is. It is often helpful to look for the sewing (thread) on the inside of a quire to find the middle of that quire. Then you can count from middle to middle to try to determine the number of leaves in a quire.
+Collation, that is, figuring out and describing the number of leaves in a quire and how many quires are in a codex can be quite difficult depending on whether single leaves have been added or removed, whether each quire has the same number of leaves, and how tight the binding is. It is often helpful to look for the sewing (thread) on the inside of a quire to find the middle of that quire. Then you can count from middle to middle to try to determine the number of leaves in a quire.
 
 That concludes the introduction to substrate and structure. You can do the [**Substrate exercise**](https://forms.gle/EFyS51SgMQTCQM9n8) now, or jump to any other page you like.
 
