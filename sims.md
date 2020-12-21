@@ -9,6 +9,11 @@ order: 11
 This page contains brief explanations of tools and resources associated with the Schoenberg Institute for Manuscript Studies (SIMS) which may be of use to you.
 
 ------------------
+#### [**SIMS Teaching and Learning Resources**](https://kislakcenter.github.io/sims-instruction/)
+
+This website collects many of the teaching and learning resources available through SIMS. There are four pages, each of which links to a number of different resources to help you study and teach with manuscripts. The site also includes the digital exhibitions which showcase some of the manuscript holdings at Penn Libraries.
+
+------------------
 #### [**OPenn**](http://openn.library.upenn.edu/ReadMe.html)
 
 We have mentioned OPenn several times in this site because it is where the digital surrogates of the manuscripts which we have been looking at are stored. The OPenn repository stores much more than Islamic manuscripts, however. There are primary source materials from a number of different collections held in OPenn. Everything you find on OPenn is high-resolution archival images which you can download and use however you like. If you have trouble figuring out how to download a complete set of files (say if you want to have the whole manuscript to look at and not just a few pages), you can watch this video, produced by Jessie Dummer, the Digitization Project Coordinator, about how to use WGET to download from OPenn (or anywhere).
@@ -27,9 +32,9 @@ This database is a provenance database. It aggregates information about the trad
 
 #### [**VisColl**](https://viscoll.org/)
 
-VisColl is a way to visualize and model the collation of a manuscript. You can use the collation description that is sometimes found in a manuscript record, or you can figure it out yourself looking at a manuscript and then get a digital visualization. See this video from Dot Porter, Curator of Digital Research Services at SIMS, for the first part of a how-to tutorial.
+VisColl is a way to visualize and model the collation of a manuscript. You can use the collation description that is sometimes found in a manuscript record, or you can figure it out yourself looking at a manuscript and then get a digital visualization. See this video from Dot Porter, Curator of Digital Research Services at SIMS, for a how-to tutorial.
 
-[![VisColl](http://img.youtube.com/vi/TdPPcCIcSgk/0.jpg)](http://www.youtube.com/watch?v=TdPPcCIcSgk "Making a model using VisColl")
+[![Manuscript image](http://img.youtube.com/vi/cpdf0KTNUoc/0.jpg)](http://www.youtube.com/watch?v=cpdf0KTNUoc "Making a Model with Viscoll")
 
 ------------------
 
