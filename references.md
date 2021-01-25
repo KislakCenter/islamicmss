@@ -11,6 +11,7 @@ This is a short and incomplete list of resources related to Islamic manuscript s
 ### Websites
 
 These sites contain volumes of information that will help you. Bookmark them!
+- [Leiden University's lessons in codicology and palaeography, Mouse and Manuscript](https://mouse.digitalscholarship.nl/)
 - [Evyn Kropf's University of Michigan Libraries Islamic manuscript libguides](https://guides.lib.umich.edu/islamicmsstudies)
 - [Professor Jan Just Witkam's Islamic manuscripts site](http://www.islamicmanuscripts.info/index.html)
 - [Karin Scheper and Paul Hepworth's Islamic Manuscript Conservation site](https://www.islamicmanuscriptconservation.org/terminology.html)
