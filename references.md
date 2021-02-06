@@ -12,11 +12,12 @@ This is a short and incomplete list of resources related to Islamic manuscript s
 
 These sites contain volumes of information that will help you. Bookmark them!
 - [Leiden University's lessons in codicology and palaeography, Mouse and Manuscript](https://mouse.digitalscholarship.nl/)
+- [Digital Ottoman Studies](https://www.digitalottomanstudies.com/)
 - [Evyn Kropf's University of Michigan Libraries Islamic manuscript libguides](https://guides.lib.umich.edu/islamicmsstudies)
-- [Professor Jan Just Witkam's Islamic manuscripts site](http://www.islamicmanuscripts.info/index.html)
 - [Karin Scheper and Paul Hepworth's Islamic Manuscript Conservation site](https://www.islamicmanuscriptconservation.org/terminology.html)
 - [Digital Orientalist](https://digitalorientalist.com/)
 - [Centre for the Study of Manuscript Cultures](https://www.manuscript-cultures.uni-hamburg.de/index_e.html)
+- [Professor Jan Just Witkam's Islamic manuscripts site](http://www.islamicmanuscripts.info/index.html)
 
 ### General Intros and Guides
 
