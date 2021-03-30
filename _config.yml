@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Islamic Manuscript Basics
-email: tuttlek@upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A site for teaching yourself the basics of looking at Islamic manuscripts. This site draws mostly from the CLIR-funded Manuscripts of the Muslim World project.
 baseurl: "/islamicmss" # the subpath of your site, e.g. /blog
